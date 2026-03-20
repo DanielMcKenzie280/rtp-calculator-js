@@ -1,3 +1,4 @@
+// basic RTP calculation for slot simulations
 function calculateRTP(totalBet, totalReturned) {
   if (typeof totalBet !== "number" || typeof totalReturned !== "number") {
     throw new Error("Both totalBet and totalReturned must be numbers.");
