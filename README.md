@@ -70,3 +70,9 @@ const totalReturned = 962;
 const rtp = calculateRTP(totalBet, totalReturned);
 
 console.log("RTP:", rtp.toFixed(2) + "%");
+
+
+- **topics**: `igaming`, `rtp`, `casino`, `javascript`
+- **license badge**
+- **code block demo**
+- **project structure**
